@@ -4,7 +4,7 @@ A simple magisk web api written in [Python](https://www.python.org) using [FastA
 
 ## API URL
 
-__Here__: <https://magiskapi.prajjus.site>
+__Here__: <https://magiskapi.prajjus.site> OR <https://magisk-web-api.vercel.app>
 
 ## Routes
 
